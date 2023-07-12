@@ -1,6 +1,6 @@
 # Full Stack E-Commerce + Dashboard & CMS
 
-This repository contains a full-stack e-commerce application along with a dashboard and content management system (CMS). It leverages the Next.js 13 App Router, React, Tailwind, Prisma, MySQL, and other technologies to provide a comprehensive solution for managing multiple vendors or stores through a single CMS. The admin dashboard serves as both a CMS and an API, enabling you to create, update, and delete categories, products, filters, billboards, and more.
+A full-stack e-commerce application along with a dashboard and content management system (CMS). It leverages the Next.js 13 App Router, React, Tailwind, Prisma, MySQL, and other technologies to provide a comprehensive solution for managing multiple vendors or stores through a single CMS. The admin dashboard serves as both a CMS and an API, enabling you to create, update, and delete categories, products, filters, billboards, and more.
 
 ## Key Features
 
